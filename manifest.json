@@ -1,0 +1,15 @@
+{
+    "name": "Easy Meaning finder",
+    "description": "As you are finding a meaning to live your life.. Now find the meaning while reading",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_icon": "dictionary.png",
+        "default_title": "Double Click on the any text to find its meaning",
+        "default_popup": "assets/html/popup.html"
+    },
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    }
+}
