@@ -1,0 +1,2 @@
+# dictionary-ext
+Dictionary Extension
