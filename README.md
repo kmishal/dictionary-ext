@@ -1,2 +1,2 @@
 # dictionary-ext
-Dictionary Extension
+Dictionary Extension for chrome
